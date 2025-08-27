@@ -155,34 +155,12 @@ Build Tool: Vite 5.4.2
 ### Quick Demo
 Visit our [live demo](https://beamish-crisp-6e6e19.netlify.app) to experience WealthPath in action.
 
-### Development Setup
-```bash
-# Clone the repository
-git clone [repository-url]
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
 ```
 
 ### Environment Requirements
 - Node.js 18+ 
 - Modern browser with ES2020 support
 - Responsive design tested on all major devices
-
-## 📞 Contact & Investment
-
-**Ready to revolutionize personal finance?**
-
-- 📧 **Business Inquiries**: [your-email@domain.com]
-- 💼 **Investment Opportunities**: [investor-relations@domain.com]
-- 🔗 **LinkedIn**: [Your LinkedIn Profile]
-- 🌐 **Website**: [Your Website]
 
 ---
 
