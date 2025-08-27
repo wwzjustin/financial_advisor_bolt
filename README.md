@@ -155,14 +155,11 @@ Build Tool: Vite 5.4.2
 ### Quick Demo
 Visit our [live demo](https://beamish-crisp-6e6e19.netlify.app) to experience WealthPath in action.
 
-```
-
 ### Environment Requirements
 - Node.js 18+ 
 - Modern browser with ES2020 support
 - Responsive design tested on all major devices
 
----
 
 *WealthPath - Where AI meets wealth management. Built for the future of personal finance.*
 
